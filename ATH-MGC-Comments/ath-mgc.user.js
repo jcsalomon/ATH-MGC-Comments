@@ -263,6 +263,6 @@ function makeNewText() {
 // Run iff we're on a page which looks like a post
 if(location.pathname.substring(0, 3) == '/20') {
   makeHighlight();
-  makeShowHide();
+//  makeShowHide();
   makeNewText();
 }
