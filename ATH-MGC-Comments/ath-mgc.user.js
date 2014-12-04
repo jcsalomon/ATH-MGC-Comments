@@ -1,9 +1,10 @@
 // ==UserScript==
-// @name           SlateStarComments
-// @namespace      http://www.github.com/bakkot
-// @description    Highlight new comments on Slate Star Codex posts
-// @match          http://slatestarcodex.com/20*
-// @version        1.3
+// @name           ATH-MGC-Comments
+// @namespace      http://www.github.com/jcsalomon
+// @description    Highlight new comments on According to Hoyt & Mad Genius Club posts
+// @match          http://accordingtohoyt.com/20*
+// @match          http://madgeniusclub.com/20*
+// @version        1.3.1
 // ==/UserScript==
 
 // run to reset:
@@ -109,7 +110,7 @@ function makeHighlight() {
   styleEle.textContent = '.new-comment { border: 2px solid #5a5; }' +
   '.new-text { color: #C5C5C5; display: none; }' +
   '.new-comment .new-text { display: inline; }' +
-  '.comments-floater { position: fixed; right: 4px; top: 4px; padding: 2px 5px; width: 230px;font-size: 14px; border-radius: 5px; background: rgba(250, 250, 250, 0.90); }' +
+  '.comments-floater { position: fixed; right: 4px; top: 44px; padding: 2px 5px; width: 230px;font-size: 14px; border-radius: 5px; background: rgba(250, 250, 250, 0.90); }' +
   '.comments-scroller { word-wrap: break-word; max-height: 500px; overflow-y:scroll; }' +
   '.comments-date { font-size: 11px; }' +
   '.semantic-cell { display: table-cell; }' +
