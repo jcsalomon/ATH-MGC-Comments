@@ -18,9 +18,9 @@ Installation
 
 Tested only on recent versions of Firefox and Chrome.
 
-Firefox users: Install Greasemonkey and open [ATH-MGC-Comments/ath-mgc.user.js](https://github.com/jcsalomon/ATH-MGC-Comments/raw/master/ATH-MGC-Comments/ath-mgc.user.js) in Firefox.
+Firefox users: Install Greasemonkey and open [ATH-MGC-Comments/ath-mgc.user.js][ath-mgc] in Firefox.
 
-Chrome users: Save SSComments/ssc.user.js to disk, go to `chrome://extensions`, and drag the script onto the main body of the window.
+Chrome users: Save [ATH-MGC-Comments/ath-mgc.user.js][ath-mgc] to disk, go to `chrome://extensions`, and drag the script onto the main body of the window.
 
 Usage Tips
 ----------
@@ -28,3 +28,5 @@ Usage Tips
 Clicking the \[-\] (only displayed if there is a nonzero number of new comments) will show or hide the list of comments. Clicking on an entry in the list will scroll you to it (provided it isn't already on the page).
 
 You can edit the date displayed in the textbox, and the highlighted comments and comments list will update accordingly.
+
+[ath-mgc]: http://jcsalomon.github.io/ATH-MGC-Comments/ath-mgc.user.js
