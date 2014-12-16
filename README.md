@@ -25,7 +25,7 @@ Chrome users:
 Save [ATH-MGC-Comments/ath-mgc.user.js][ath-mgc] to disk, go to `chrome://extensions`, and drag the script onto the main body of the window.
 
 Very Special Users (_i.e._, the site admins of ATH & MGC):
-If you include a link to [ATH-MGC-Comments/ath-mgc.user.js][ath-mgc] in the site header,
+If you include a link to [ATH-MGC-Comments/ath-mgc.user.js][ath-mgc-2] in the site header,
 then everyone gets to use it
 (whether they want to or no; there is that caveat).
 
@@ -36,4 +36,5 @@ Clicking the \[-\] (only displayed if there is a nonzero number of new comments)
 
 You can edit the date displayed in the textbox, and the highlighted comments and comments list will update accordingly.
 
-[ath-mgc]: http://jcsalomon.github.io/ATH-MGC-Comments/ath-mgc.user.js
+[ath-mgc]: https://github.com/jcsalomon/ATH-MGC-Comments/raw/ath-mgc/ATH-MGC-Comments/ath-mgc.user.js
+[ath-mgc-2]:  http://jcsalomon.github.io/ATH-MGC-Comments/ath-mgc.user.js
