@@ -18,9 +18,16 @@ Installation
 
 Tested only on recent versions of Firefox and Chrome.
 
-Firefox users: Install Greasemonkey and open [ATH-MGC-Comments/ath-mgc.user.js][ath-mgc] in Firefox.
+Firefox users:
+Install Greasemonkey and open [ATH-MGC-Comments/ath-mgc.user.js][ath-mgc] in Firefox.
 
-Chrome users: Save [ATH-MGC-Comments/ath-mgc.user.js][ath-mgc] to disk, go to `chrome://extensions`, and drag the script onto the main body of the window.
+Chrome users:
+Save [ATH-MGC-Comments/ath-mgc.user.js][ath-mgc] to disk, go to `chrome://extensions`, and drag the script onto the main body of the window.
+
+Very Special Users (_i.e._, the site admins of ATH & MGC):
+If you include a link to [ATH-MGC-Comments/ath-mgc.user.js][ath-mgc] in the site header,
+then everyone gets to use it
+(whether they want to or no; there is that caveat).
 
 Usage Tips
 ----------
