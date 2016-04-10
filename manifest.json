@@ -1,13 +1,15 @@
 {
   "name": "ATH-MGC-Comments",
   "short_name": "ATH-MGC-Comments",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "Highlight new comments on According to Hoyt & Mad Genius Club posts.",
   "content_scripts": [
     {
       "matches": [
         "http://accordingtohoyt.com/20*",
-        "http://madgeniusclub.com/20*"
+        "https://accordingtohoyt.com/20*",
+        "http://madgeniusclub.com/20*",
+        "https://madgeniusclub.com/20*"
       ],
       "js": ["ath-mgc.user.js"]
     }
