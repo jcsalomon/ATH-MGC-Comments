@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           ATH-MGC-Comments
-// @namespace      http://www.github.com/jcsalomon
+// @namespace      http://github.com/jcsalomon
 // @description    Highlight new comments on According to Hoyt & Mad Genius Club posts
 // @match          *://accordingtohoyt.com/20*
 // @match          *://madgeniusclub.com/20*
