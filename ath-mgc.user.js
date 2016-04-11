@@ -2,10 +2,8 @@
 // @name           ATH-MGC-Comments
 // @namespace      http://www.github.com/jcsalomon
 // @description    Highlight new comments on According to Hoyt & Mad Genius Club posts
-// @match          http://accordingtohoyt.com/20*
-// @match          https://accordingtohoyt.com/20*
-// @match          http://madgeniusclub.com/20*
-// @match          https://madgeniusclub.com/20*
+// @match          *://accordingtohoyt.com/20*
+// @match          *://madgeniusclub.com/20*
 // @version        1.3.2
 // ==/UserScript==
 

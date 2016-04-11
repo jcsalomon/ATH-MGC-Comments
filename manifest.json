@@ -6,10 +6,8 @@
   "content_scripts": [
     {
       "matches": [
-        "http://accordingtohoyt.com/20*",
-        "https://accordingtohoyt.com/20*",
-        "http://madgeniusclub.com/20*",
-        "https://madgeniusclub.com/20*"
+        "*://accordingtohoyt.com/20*",
+        "*://madgeniusclub.com/20*"
       ],
       "js": ["ath-mgc.user.js"]
     }
