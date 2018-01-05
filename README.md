@@ -1,4 +1,4 @@
-According to Hoyt & Mad Genius Club Comments
+According to Hoyt Comments
 ============================================
 
 From the original version of this code:
@@ -6,9 +6,8 @@ From the original version of this code:
 
 This is a fork to add the same new features
 to the comment systems at
-[According to Hoyt](http://accordingtohoyt.com/) &
-[Mad Genius Club](http://madgeniusclub.com/),
-sites that offer some more of the best discussion on the ’net.
+[According to Hoyt](http://accordingtohoyt.com/),
+a site that offers some more of the best discussion on the ’net.
 
 In particular:
 
@@ -27,17 +26,17 @@ Tested only on recent versions of Firefox and Chrome.
 
 Firefox users:
 Install [Greasemonkey][greasemonkey]
-and open [ATH-MGC-Comments/ath-mgc.user.js][ath-mgc] in Firefox.
+and open [ATH-Comments/ath.user.js][ath] in Firefox.
 
 Chrome users:
-Save [ATH-MGC-Comments/ath-mgc.user.js][ath-mgc] to disk,
+Save [ATH-Comments/ath.user.js][ath] to disk,
 go to `chrome://extensions`,
 and drag the script onto the main body of the window.
 
-Very Special Users (_i.e._, the site admins of ATH & MGC):
-If you include a link to [ATH-MGC-Comments/ath-mgc.user.js][ath-mgc] in the site header,
+Very Special Users (_i.e._, the site admins of ATH):
+If you include a link to [ATH-Comments/ath.user.js][ath] in the site header,
 then everyone gets to use it
 (whether they want to or no; there is that caveat).
 
-[ath-mgc]: http://jcsalomon.github.io/ATH-MGC-Comments/ath-mgc.user.js
+[ath]: http://jcsalomon.github.io/ATH-MGC-Comments/ath.user.js
 [greasemonkey]: http://greasespot.net/

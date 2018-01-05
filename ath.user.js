@@ -1,10 +1,9 @@
 // ==UserScript==
-// @name           ATH-MGC-Comments
+// @name           ATH-Comments
 // @namespace      http://github.com/jcsalomon
-// @description    Highlight new comments on According to Hoyt & Mad Genius Club posts
+// @description    Highlight new comments on According to Hoyt posts
 // @match          *://accordingtohoyt.com/20*
-// @match          *://madgeniusclub.com/20*
-// @version        1.3.2
+// @version        1.3.3
 // ==/UserScript==
 
 // run to reset:
